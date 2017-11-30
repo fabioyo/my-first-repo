@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #ffffff;
+}
+
+.article{
+	margin-right: 15%;
+	margin-left: 15%;
+}
+
+.photo{
+	margin-right: 20%;
+	margin-left: 20%;
+	margin-bottom: 3%;
+	margin-top: 5%;
+
+	}
+
